@@ -1,0 +1,2 @@
+# ResilientStudioCoreTs
+Python script
